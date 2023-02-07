@@ -10,11 +10,11 @@ Recentemente estou aprofundamento meus conhecimentos no desenvlvimento Web. Apai
 
 Estou estudando ***Javascript e React*** assim como infraestrutura para integração contínua e hospedagem. <br/><br/>
 
-<div style="display: inline_block">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=guslifer&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<div style="display: flex">
+  <a href="https://github.com/guslifer/">
+    <img  height="180em" width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=guslifer&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guslifer&layout=compact"/>
+  <a href="https://github.com/guslifer/">
+    <img height="180em" width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guslifer&layout=compact"/>
   </a>
 <div>
